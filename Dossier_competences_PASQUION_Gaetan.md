@@ -1,59 +1,47 @@
-**Gaëtan PASQUION      			  Dossier de compétences**  
-8 ans d’expérience  
-   
-   
-                                   	  
- 
+# Gaëtan PASQUION - Dossier de compétences
+
+8 ans d'expérience
 
 # Développeur confirmé PHP Symfony / Go
 
-PHP (Symfony), Javascript (React.js / Node.js), Go  
-   
- 
+PHP (Symfony), Javascript (React.js / Node.js), Go
 
 # COMPÉTENCES TECHNIQUES
 
- 
-
+| Domaine | Technologies |
+|:--------|:------------|
 | Langages | PHP, Javascript, Go |
-| :---- | :---- |
-| Base de données | DynamoDB,  MySQL, MariaDB, MongoDB |
+| Base de données | DynamoDB, MySQL, MariaDB, MongoDB |
 | Frameworks | React.js, Next.js, Symfony |
 | Cloud | AWS, Terraform, Pulumi |
 | Écosystèmes de développement | Visual Studio Code, Zed, suite JetBrains, Composer, npm, Git |
-|  |  |
 | Intégration continue | Jenkins, Bitbucket, GitLab CI/CD, SonarQube |
 | Testing | PHPUnit, Codeception |
 | Outils Collaboratifs | Jira, Redmine, Confluence |
 | Autres | Suite Office, Google Docs |
 
- 
-
- 
-
 # PARCOURS PROFESSIONNEL
 
 ## Mission – Bedrock Streaming (3 ans et 3 mois)
 
-De 09/2021 à 12/2024 – LYON		             Développeur PHP Symfony 7 et Golang
+**09/2021 - 12/2024 – LYON** | Développeur PHP Symfony 7 et Golang
 
 Au sein de Bedrock Streaming, intégré au sein d'une équipe j'ai participé et développé des API permettant d'accéder aux métadonnées des catalogues clients, tout en assurant la gestion de l'infrastructure cloud sur AWS via Terraform, dans une approche Infrastructure-as-Code. En collaboration avec l'équipe, nous avons également conçu et implémenté une API en Go, en utilisant le framework fx pour une gestion efficace de l'injection de dépendances.
 
-## Mission – Banque Casino (*Floa Bank)* (1 an et 9 mois)
+## Mission – Banque Casino *(Floa Bank)* (1 an et 9 mois)
 
-De 09/2019 à 07/2021 – BORDEAUX		              Développeur PHP Symfony 3.4  
-   
-En tant que développeur polyvalent j’ai participé à l’évolution du socle des 4 produits gérés par l’équipe WAX.
+**09/2019 - 07/2021 – BORDEAUX** | Développeur PHP Symfony 3.4
 
-J’ai principalement travaillé sur l’application *moncoupdepouce.com*  
- 
+En tant que développeur polyvalent j'ai participé à l'évolution du socle des 4 produits gérés par l'équipe WAX.
 
-- Corrections et ajout de nouvelles features au sein des produits existants  
-- Méthodologie Agile (participations aux dailys, refinements et rétrospectives) accompagné par un scrum master et un product owner  
-- Participations aux mises en production  
-- Mise en place de la consommation de messages asynchrone via RabbitMQ (composant messenger)  
-- Création de scripts d'anonymisation pour la conformité RGPD (composant command)  
-- Utilisation et initiation aux designs patterns (stratégie ainsi que DDD et CQRS)  
+J'ai principalement travaillé sur l'application *moncoupdepouce.com*
+
+- Corrections et ajout de nouvelles features au sein des produits existants
+- Méthodologie Agile (participations aux dailys, refinements et rétrospectives) accompagné par un scrum master et un product owner
+- Participations aux mises en production
+- Mise en place de la consommation de messages asynchrone via RabbitMQ (composant messenger)
+- Création de scripts d'anonymisation pour la conformité RGPD (composant command)
+- Utilisation et initiation aux designs patterns (stratégie ainsi que DDD et CQRS)
 - Mise en place CI/CD avec Gitlab pour les tâches récurrentes
 
 ### Compétences et environnement
@@ -62,14 +50,11 @@ PHP 7, Symfony 3.4, PhpStorm, Visual Studio Community 2019, Jira, Confluence, Gi
 
 ## Mission – Conecteo (3 mois)
 
-De 05/2019 à 08/2019 – MARTILLAC 			   Développeur PHP Symfony 3.4  
-   
-En tant que développeur PHP Symfony, je suis intervenu au sein du groupe pour renforcer l’équipe pendant l’été dans le cadre de la release d’une nouvelle version du logiciel Kiamo.  
- 
+**05/2019 - 08/2019 – MARTILLAC** | Développeur PHP Symfony 3.4
 
-- Maintenance corrective et développement des demandes d’améliorations assignées via Redmine
+En tant que développeur PHP Symfony, je suis intervenu au sein du groupe pour renforcer l'équipe pendant l'été dans le cadre de la release d'une nouvelle version du logiciel Kiamo.
 
- 
+- Maintenance corrective et développement des demandes d'améliorations assignées via Redmine
 
 ### Compétences et environnement
 
@@ -77,106 +62,88 @@ PHP 7, Symfony 3.4, MongoDB, PHPStorm, Redmine
 
 ## Ubisoft Nadeo (6 mois)
 
-De 09/2018 à 03/2019 – BORDEAUX                                         Développeur PHP Symfony 4  
-En tant que développeur PHP je suis intervenu sur le développement d'APIs REST pour un système de compétitions en ligne en connexion avec la plateforme ManiaPlanet.  
- 
+**09/2018 - 03/2019 – BORDEAUX** | Développeur PHP Symfony 4
 
-- Rédaction du cahier des charges  
-- Développement d’APIs REST avec FOSRestBundle  
-- Mise en place d’une connexion OAuth avec Maniaplanet  
-- Ajout de tests unitaires automatisés  
-- Revue de code sur Phabricator  
-- Développement d’une extension Twitch d’affichage de leaderboard en JavaScript
+En tant que développeur PHP je suis intervenu sur le développement d'APIs REST pour un système de compétitions en ligne en connexion avec la plateforme ManiaPlanet.
 
- 
+- Rédaction du cahier des charges
+- Développement d'APIs REST avec FOSRestBundle
+- Mise en place d'une connexion OAuth avec Maniaplanet
+- Ajout de tests unitaires automatisés
+- Revue de code sur Phabricator
+- Développement d'une extension Twitch d'affichage de leaderboard en JavaScript
 
 ### Compétences et environnement
 
-PHP 7, Symfony 4, REST, PHPUnit, PHPStorm, Phabricator, OAuth, Twitch, Javascript, Git, Sourcetree  
-   
-   
- 
+PHP 7, Symfony 4, REST, PHPUnit, PHPStorm, Phabricator, OAuth, Twitch, Javascript, Git, Sourcetree
 
 ## Sopra Steria (9 mois)
 
-De 12/2017 à 08/2018 – MONTPELLIER     	                 	              Développeur PHP 7 ZF1  
-En tant que développeur affecté à une équipe travaillant sur une TMA pour Orange, je suis intervenu sur la maintenance et les évolutions de l’application OCAPI (planning d’intervention des techniciens Orange, gestion des incidents, envoie de mails et SMS aux techniciens, etc.) ainsi que deux autres applications dans le périmètre de la TMA.  
- 
+**12/2017 - 08/2018 – MONTPELLIER** | Développeur PHP 7 ZF1
 
-- Estimation du temps de développement selon la demande client  
-- Participation à la définition des features  
-- Résolution de tickets via l’outil client  
-- Mise en place des tests unitaires automatisés  
-- Mise à jour de la documentation interne  
+En tant que développeur affecté à une équipe travaillant sur une TMA pour Orange, je suis intervenu sur la maintenance et les évolutions de l'application OCAPI (planning d'intervention des techniciens Orange, gestion des incidents, envoie de mails et SMS aux techniciens, etc.) ainsi que deux autres applications dans le périmètre de la TMA.
+
+- Estimation du temps de développement selon la demande client
+- Participation à la définition des features
+- Résolution de tickets via l'outil client
+- Mise en place des tests unitaires automatisés
+- Mise à jour de la documentation interne
 - Maintenance corrective des applications OCAPI, Elline et ASAP
 
 ### Compétences et environnement
 
-PHP 7, ZF1, PHPUnit, PHPStorm, MySQL Workbench, GitLab, SonarQube, Oceane (outil de tickets interne), Javascript, ExtJS  
- 
+PHP 7, ZF1, PHPUnit, PHPStorm, MySQL Workbench, GitLab, SonarQube, Oceane (outil de tickets interne), Javascript, ExtJS
 
 ## Sopra Steria (alternance 2 ans)
 
 ### TMA ORANGE UCC (2 mois)
 
-De 08/2017 à 10/2017 \- MONTPELLIER  
+**08/2017 - 10/2017 – MONTPELLIER** | Développeur Java EE
+
 En tant que développeur en alternance Java EE sur la tierce maintenance applicative des applications Gescom et Clarify.
 
 ### Compétences et environnement
 
 Eclipse, Toad for MySQL, Java EE (Hibernate), Sciforma, SonarQube, SonarLint
 
- 
-
 ### Projet CNAV (3 mois)
 
-De 06/2017 à 08/2017 – MONTPELLIER                 	     Développeur Polymer 2.0 (Javascript)  
-   
-En tant que développeur en alternance, j’ai développé en binôme avec un responsable technique une solution full-stack client/serveur from scratch pour les caisses de retraite (CNAV).  
-Il s’agit d’une application web permettant de définir les activités proches de la localisation du retraité qui accède au portail « Pour bien vieillir ». *([https://www.pourbienvieillir.fr/](https://www.pourbienvieillir.fr/))*  
- 
+**06/2017 - 08/2017 – MONTPELLIER** | Développeur Polymer 2.0 (Javascript)
 
-- Développement front : Javascript avec framework Polymer 2.0 de Google (Web Components) selon une maquette déjà en place  
-- Mise en place d’une carte interactive avec Leaflet et le fond de carte IGN (L'Institut national de l'information géographique et forestière)  
-- Connexion avec l’API « Base Adresse Nationale » du gouvernement (suggestion d’adresses pour localisation)
+En tant que développeur en alternance, j'ai développé en binôme avec un responsable technique une solution full-stack client/serveur from scratch pour les caisses de retraite (CNAV).
+Il s'agit d'une application web permettant de définir les activités proches de la localisation du retraité qui accède au portail « Pour bien vieillir ». *([https://www.pourbienvieillir.fr/](https://www.pourbienvieillir.fr/))*
 
- 
+- Développement front : Javascript avec framework Polymer 2.0 de Google (Web Components) selon une maquette déjà en place
+- Mise en place d'une carte interactive avec Leaflet et le fond de carte IGN (L'Institut national de l'information géographique et forestière)
+- Connexion avec l'API « Base Adresse Nationale » du gouvernement (suggestion d'adresses pour localisation)
 
 ### Compétences et environnement
 
-JavaScript, Polymer 2.0, Leaflet, Visual Studio Code, Docker, Eclipse, HP Quality Center, HTML / CSS  
-   
-   
- 
+JavaScript, Polymer 2.0, Leaflet, Visual Studio Code, Docker, Eclipse, HP Quality Center, HTML / CSS
 
 ### Projet Université Paris-Saclay (2 mois)
 
-De 04/2017 à 06/2017 – MONTPELLIER                Développeur ETL Talend et langage PHP  
-En tant que développeur en alternance intégré au sein d’une équipe de cinq personnes pour le projet UPS (Université Paris-Saclay).  
- 
+**04/2017 - 06/2017 – MONTPELLIER** | Développeur ETL Talend et PHP
 
-- Corrections mineures en PHP (Symfony)  
-- Maintenance et création de nouveaux flux de données suite à la montée de version de l’application (via l’ELT Talend)
+En tant que développeur en alternance intégré au sein d'une équipe de cinq personnes pour le projet UPS (Université Paris-Saclay).
 
- 
+- Corrections mineures en PHP (Symfony)
+- Maintenance et création de nouveaux flux de données suite à la montée de version de l'application (via l'ELT Talend)
 
 ### Compétences et environnement
 
-ETL Talend Open Studio, Eclipse pour PHP, PostgreSQL, Daily Meetings avec Kanban  
- 
+ETL Talend Open Studio, Eclipse pour PHP, PostgreSQL, Daily Meetings avec Kanban
 
 ## Projet APOGEE (1 an)
 
-De 09/2015 à 09/2016 – MONTPELLIER                            	 Développeur PL/SQL et Java EE  
-   
-En tant que développeur en alternance intégré au sein d’une équipe d’une vingtaine de personnes pour le projet APOGEE.  
- 
+**09/2015 - 09/2016 – MONTPELLIER** | Développeur PL/SQL et Java EE
 
-- Gestion des systèmes d’inscription universitaire : développements PL/SQL sur le Gestionnaire utilisé par les universités  
-- Corrections et maintenance applicative (selon demande de l’équipe) des différents services numériques (Java EE, ORM hibernate)  
-- Gestion de l’assistances aux universités (réponse aux tickets et dialogue avec les universités, outil interne au projet)  
-- Qualification de développements  
-   
+En tant que développeur en alternance intégré au sein d'une équipe d'une vingtaine de personnes pour le projet APOGEE.
+
+- Gestion des systèmes d'inscription universitaire : développements PL/SQL sur le Gestionnaire utilisé par les universités
+- Corrections et maintenance applicative (selon demande de l'équipe) des différents services numériques (Java EE, ORM hibernate)
+- Gestion de l'assistances aux universités (réponse aux tickets et dialogue avec les universités, outil interne au projet)
+- Qualification de développements
 
 ### Compétences et environnement
 
@@ -184,33 +151,29 @@ Eclipse, Oracle 11g, Sciforma (gestion de projet), HP Quality Center, Word, Subv
 
 ## CrCom LYON (1 an)
 
-De 09/2014 à 08/2015 – LYON                                    Développeur WordPress et Prestashop  
-   
-En tant que développeur WordPress et Prestashop en télétravail.  
-       	
+**09/2014 - 08/2015 – LYON** | Développeur WordPress et Prestashop
 
-- Installation et mise à jour de sites sous Wordpress  
-- Installation de sites sous Prestashop 1.7  
-- Création d’un module Prestashop compatible v1.6 et v1.7  
+En tant que développeur WordPress et Prestashop en télétravail.
+
+- Installation et mise à jour de sites sous Wordpress
+- Installation de sites sous Prestashop 1.7
+- Création d'un module Prestashop compatible v1.6 et v1.7
 - Référencement web SEO
-
- 
 
 ### Compétences et environnement
 
-WAMP, MySQL, Sublime Text 2, PHP 5, WordPress, Prestashop 1.6 / 1.7  
- 
+WAMP, MySQL, Sublime Text 2, PHP 5, WordPress, Prestashop 1.6 / 1.7
 
 # PROJETS PERSONNELS
 
 ## Binance API
 
-Juin 2021 \- BORDEAUX 							         Symfony 5.3
+**Juin 2021 – BORDEAUX** | Symfony 5.3
 
-Mise en place et utilisation d’une partie de l’API de l’échangeur Binance pour passer des ordres et récupérer des données sur les crypto-monnaies. Utilisation de Symfony et code [hébergé sur Github](https://github.com/Et3rnel/binance-symfony).
+Mise en place et utilisation d'une partie de l'API de l'échangeur Binance pour passer des ordres et récupérer des données sur les crypto-monnaies. Utilisation de Symfony et code [hébergé sur Github](https://github.com/Et3rnel/binance-symfony).
 
-- Utilisation du client HTTP de Symfony pour mettre en place des clients dédiés à chaque type de sécurités rencontré sur l’API Binance  
-- Création d’actions qui permettent d’appeler une route de l’API Binance avec des paramètres (ex: passage d’ordres au marché)
+- Utilisation du client HTTP de Symfony pour mettre en place des clients dédiés à chaque type de sécurités rencontré sur l'API Binance
+- Création d'actions qui permettent d'appeler une route de l'API Binance avec des paramètres (ex: passage d'ordres au marché)
 
 ### Compétences et environnement
 
@@ -218,12 +181,12 @@ Symfony 5.3, PhpStorm, Symfony HTTP Client, Binance API
 
 ## phpjobs.dev
 
-Août 2020 \- BORDEAUX							         Symfony 5.1
+**Août 2020 – BORDEAUX** | Symfony 5.1
 
-Création du site d’annonces phpjobs.dev avec le code [hébergé sur Github](https://github.com/Et3rnel/phpjobs.dev) (désormais hors ligne) qui permet de récupérer les offres d’emploi en PHP via l’API Emploi Store de Pôle Emploi et de les afficher.
+Création du site d'annonces phpjobs.dev avec le code [hébergé sur Github](https://github.com/Et3rnel/phpjobs.dev) (désormais hors ligne) qui permet de récupérer les offres d'emploi en PHP via l'API Emploi Store de Pôle Emploi et de les afficher.
 
-- Utilisation du composant Command de Symfony pour récupérer des données  
-- Appels à l’APIs Emploi Store de Pôle Emploi via Guzzle et utilisation de middlewares pour la récupération automatique du token d’accès
+- Utilisation du composant Command de Symfony pour récupérer des données
+- Appels à l'APIs Emploi Store de Pôle Emploi via Guzzle et utilisation de middlewares pour la récupération automatique du token d'accès
 
 ### Compétences et environnement
 
@@ -231,21 +194,18 @@ Symfony 5.1, Twig, PhpStorm, Guzzle, Emploi Store API
 
 ## Gite de tante jeanne
 
-Développement et hébergement d’un site internet pour le Gite de tante jeanne en Ardèche. L’objectif est de présenter le gîte et de permettre l’affichage d'activités et de gastronomies à proximité (site désormais sous Wordpress).
+Développement et hébergement d'un site internet pour le Gite de tante jeanne en Ardèche. L'objectif est de présenter le gîte et de permettre l'affichage d'activités et de gastronomies à proximité (site désormais sous Wordpress).
 
-- Création d’une API REST pour la récupération des activités et gastronomies en base de données  
-- Développement de la partie front en React.js avec le framework CSS open source Bulma.io  
+- Création d'une API REST pour la récupération des activités et gastronomies en base de données
+- Développement de la partie front en React.js avec le framework CSS open source Bulma.io
 - Enregistrement des activités et compétences dans une base de données NoSQL (MongoDB)
 
 ### Compétences et environnement
 
 Docker, Node.js, MongoDB, React.js, Express.js, OVH, Debian, Bulma CSS
 
-# 
-
 # SCOLARITÉ
 
-2017 \- Master MSIR \- Chef de projet informatique et robotique  
-2013 \- Diplôme universitaire \- Génie Électrique et Informatique Industrielle  
-2011 \- Bac Sciences et Technologie Industrielles  
-   
+- 2017 - Master MSIR - Chef de projet informatique et robotique
+- 2013 - Diplôme universitaire - Génie Électrique et Informatique Industrielle
+- 2011 - Bac Sciences et Technologie Industrielles
