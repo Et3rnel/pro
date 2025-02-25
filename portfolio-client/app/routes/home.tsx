@@ -20,8 +20,8 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="prose prose-lg max-w-none dark:prose-invert">
+    <div className="container mx-auto px-4 py-12 md:py-16 max-w-4xl">
+      <div className="prose prose-lg max-w-none dark:prose-invert animate-fade-in">
         <Markdown>
           {markdown}
         </Markdown>
