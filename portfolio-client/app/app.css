@@ -68,9 +68,17 @@ body {
 
   /* Lists */
   ul {
-    @apply space-y-2;
+    @apply space-y-2 list-none;
   }
+
   li {
     @apply transition-transform duration-200 hover:translate-x-1;
+    position: relative;
+    padding-left: 1.5rem;
+  }
+
+  li::before {
+    content: "•";
+    @apply absolute left-0 text-blue-600 dark:text-blue-400;
   }
 }
