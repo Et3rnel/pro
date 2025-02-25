@@ -1,15 +1,7 @@
-import type { Route } from "./+types/home";
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 
-export function meta({}: Route.MetaArgs) {
-  return [
-    { title: "Gaëtan PASQUION - Portfolio" },
-    { name: "description", content: "Portfolio et dossier de compétences de Gaëtan PASQUION" },
-  ];
-}
-
-export default function Home() {
+export default function Resume() {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
@@ -21,7 +13,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <div className="prose prose-lg max-w-none dark:prose-invert">
+      <div className="prose prose-lg max-w-none">
         <ReactMarkdown>
           {markdown}
         </ReactMarkdown>
