@@ -1,6 +1,6 @@
 import type { Route } from "./+types/home";
 import { useState, useEffect } from 'react';
-import ReactMarkdown from 'react-markdown';
+import Markdown from 'markdown-to-jsx';
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -22,9 +22,9 @@ export default function Home() {
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="prose prose-lg max-w-none dark:prose-invert">
-        <ReactMarkdown>
+        <Markdown>
           {markdown}
-        </ReactMarkdown>
+        </Markdown>
       </div>
     </div>
   );
