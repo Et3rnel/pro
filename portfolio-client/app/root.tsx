@@ -50,6 +50,21 @@ const mdxComponents: Record<string, ComponentType<ComponentProps<any>>> = {
   pre: (props) => (
     <pre className="bg-gray-100 dark:bg-gray-800 rounded-lg p-4 overflow-x-auto my-6 shadow-sm" {...props} />
   ),
+  table: (props) => (
+    <div className="overflow-x-auto my-6">
+      <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-700" {...props} />
+    </div>
+  ),
+  thead: (props) => (
+    <thead className="bg-gray-100 dark:bg-gray-800" {...props} />
+  ),
+  th: (props) => (
+    <th className="px-4 py-3 text-left text-sm font-semibold text-gray-900 dark:text-gray-100 whitespace-nowrap" {...props} />
+  ),
+  td: (props) => (
+    <td className="px-4 py-3 text-sm text-gray-600 dark:text-gray-300" {...props} />
+  ),
+  tbody: (props) => <tbody className="divide-y divide-gray-100 dark:divide-gray-700 bg-white dark:bg-gray-900" {...props} />,
 };
 
 export const links: Route.LinksFunction = () => [
