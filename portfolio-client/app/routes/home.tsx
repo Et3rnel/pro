@@ -1,6 +1,5 @@
 import type { Route } from "./+types/home";
-import { useState, useEffect } from 'react';
-import Markdown from 'markdown-to-jsx';
+import { Navigate } from "react-router";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -10,22 +9,5 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  const [markdown, setMarkdown] = useState('');
-
-  useEffect(() => {
-    fetch('/Dossier_competences_PASQUION_Gaetan.md')
-      .then(response => response.text())
-      .then(text => setMarkdown(text))
-      .catch(error => console.error('Error loading markdown:', error));
-  }, []);
-
-  return (
-    <div className="container mx-auto px-4 py-12 md:py-16 max-w-4xl">
-      <div className="prose prose-lg max-w-none dark:prose-invert animate-fade-in">
-        <Markdown>
-          {markdown}
-        </Markdown>
-      </div>
-    </div>
-  );
+  return <Navigate to="/resume" replace />;
 }

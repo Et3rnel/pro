@@ -1,3 +1,13 @@
+export default function Layout({ children }) {
+  return (
+    <div className="container mx-auto px-4 py-12 md:py-16 max-w-4xl">
+      <div className="prose prose-lg max-w-none dark:prose-invert animate-fade-in [&_table]:w-full [&_td]:p-2 [&_th]:p-2 [&_table]:mb-8">
+        {children}
+      </div>
+    </div>
+  );
+}
+
 # Gaëtan PASQUION - Dossier de compétences
 
 8 ans d'expérience
@@ -24,13 +34,13 @@ PHP (Symfony), Javascript (React.js / Node.js), Go
 
 ## Mission – Bedrock Streaming (3 ans et 3 mois)
 
-**09/2021 - 12/2024 – LYON** | Développeur PHP Symfony 7 et Golang
+**Du 09/2021 au 12/2024 – LYON** | Développeur PHP Symfony 7 et Golang
 
 Au sein de Bedrock Streaming, intégré au sein d'une équipe j'ai participé et développé des API permettant d'accéder aux métadonnées des catalogues clients, tout en assurant la gestion de l'infrastructure cloud sur AWS via Terraform, dans une approche Infrastructure-as-Code. En collaboration avec l'équipe, nous avons également conçu et implémenté une API en Go, en utilisant le framework fx pour une gestion efficace de l'injection de dépendances.
 
 ## Mission – Banque Casino *(Floa Bank)* (1 an et 9 mois)
 
-**09/2019 - 07/2021 – BORDEAUX** | Développeur PHP Symfony 3.4
+**Du 09/2019 au 07/2021 – BORDEAUX** | Développeur PHP Symfony 3.4
 
 En tant que développeur polyvalent j'ai participé à l'évolution du socle des 4 produits gérés par l'équipe WAX.
 
@@ -50,7 +60,7 @@ PHP 7, Symfony 3.4, PhpStorm, Visual Studio Community 2019, Jira, Confluence, Gi
 
 ## Mission – Conecteo (3 mois)
 
-**05/2019 - 08/2019 – MARTILLAC** | Développeur PHP Symfony 3.4
+**Du 05/2019 au 08/2019 – MARTILLAC** | Développeur PHP Symfony 3.4
 
 En tant que développeur PHP Symfony, je suis intervenu au sein du groupe pour renforcer l'équipe pendant l'été dans le cadre de la release d'une nouvelle version du logiciel Kiamo.
 
@@ -62,7 +72,7 @@ PHP 7, Symfony 3.4, MongoDB, PHPStorm, Redmine
 
 ## Ubisoft Nadeo (6 mois)
 
-**09/2018 - 03/2019 – BORDEAUX** | Développeur PHP Symfony 4
+**Du 09/2018 au 03/2019 – BORDEAUX** | Développeur PHP Symfony 4
 
 En tant que développeur PHP je suis intervenu sur le développement d'APIs REST pour un système de compétitions en ligne en connexion avec la plateforme ManiaPlanet.
 
@@ -79,7 +89,7 @@ PHP 7, Symfony 4, REST, PHPUnit, PHPStorm, Phabricator, OAuth, Twitch, Javascrip
 
 ## Sopra Steria (9 mois)
 
-**12/2017 - 08/2018 – MONTPELLIER** | Développeur PHP 7 ZF1
+**Du 12/2017 au 08/2018 – MONTPELLIER** | Développeur PHP 7 ZF1
 
 En tant que développeur affecté à une équipe travaillant sur une TMA pour Orange, je suis intervenu sur la maintenance et les évolutions de l'application OCAPI (planning d'intervention des techniciens Orange, gestion des incidents, envoie de mails et SMS aux techniciens, etc.) ainsi que deux autres applications dans le périmètre de la TMA.
 
@@ -98,7 +108,7 @@ PHP 7, ZF1, PHPUnit, PHPStorm, MySQL Workbench, GitLab, SonarQube, Oceane (outil
 
 ### TMA ORANGE UCC (2 mois)
 
-**08/2017 - 10/2017 – MONTPELLIER** | Développeur Java EE
+**Du 08/2017 au 10/2017 – MONTPELLIER** | Développeur Java EE
 
 En tant que développeur en alternance Java EE sur la tierce maintenance applicative des applications Gescom et Clarify.
 
@@ -108,7 +118,7 @@ Eclipse, Toad for MySQL, Java EE (Hibernate), Sciforma, SonarQube, SonarLint
 
 ### Projet CNAV (3 mois)
 
-**06/2017 - 08/2017 – MONTPELLIER** | Développeur Polymer 2.0 (Javascript)
+**Du 06/2017 au 08/2017 – MONTPELLIER** | Développeur Polymer 2.0 (Javascript)
 
 En tant que développeur en alternance, j'ai développé en binôme avec un responsable technique une solution full-stack client/serveur from scratch pour les caisses de retraite (CNAV).
 Il s'agit d'une application web permettant de définir les activités proches de la localisation du retraité qui accède au portail « Pour bien vieillir ». *([https://www.pourbienvieillir.fr/](https://www.pourbienvieillir.fr/))*
@@ -123,7 +133,7 @@ JavaScript, Polymer 2.0, Leaflet, Visual Studio Code, Docker, Eclipse, HP Qualit
 
 ### Projet Université Paris-Saclay (2 mois)
 
-**04/2017 - 06/2017 – MONTPELLIER** | Développeur ETL Talend et PHP
+**Du 04/2017 au 06/2017 – MONTPELLIER** | Développeur ETL Talend et PHP
 
 En tant que développeur en alternance intégré au sein d'une équipe de cinq personnes pour le projet UPS (Université Paris-Saclay).
 
@@ -136,7 +146,7 @@ ETL Talend Open Studio, Eclipse pour PHP, PostgreSQL, Daily Meetings avec Kanban
 
 ## Projet APOGEE (1 an)
 
-**09/2015 - 09/2016 – MONTPELLIER** | Développeur PL/SQL et Java EE
+**Du 09/2015 au 09/2016 – MONTPELLIER** | Développeur PL/SQL et Java EE
 
 En tant que développeur en alternance intégré au sein d'une équipe d'une vingtaine de personnes pour le projet APOGEE.
 
@@ -151,7 +161,7 @@ Eclipse, Oracle 11g, Sciforma (gestion de projet), HP Quality Center, Word, Subv
 
 ## CrCom LYON (1 an)
 
-**09/2014 - 08/2015 – LYON** | Développeur WordPress et Prestashop
+**Du 09/2014 au 08/2015 – LYON** | Développeur WordPress et Prestashop
 
 En tant que développeur WordPress et Prestashop en télétravail.
 
